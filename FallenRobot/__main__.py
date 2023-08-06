@@ -72,13 +72,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*● ʜᴇʏ ●* {}, ✨
-
-*๏ ᴛʜɪs ɪs* {} !
-➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
-
-──────────────────
-*● ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs ●.*
+*● ʜᴇʏ ʙᴀʙʏ, 🖤\n ●ᴛʜɪs ɪs {0} 🥀\n ᴀ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴄᴏᴏʟ ᴀɴᴅ ᴀᴡᴇsᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.\n\n**➻ Sᴜᴘᴘᴏʀᴛᴇᴅ Pʟᴀᴛғᴏʀᴍs : ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪғʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇ ᴍᴜsɪᴄ ᴀɴᴅ sᴏᴜɴᴅᴄʟᴏᴜᴅ.\n\n ─────────────────
+● ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ●\n─────────────────.*
 """
 
 buttons = [
@@ -412,7 +407,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="● ɢɪᴛʜᴜʙ ●",
-                            url="https://t.me/ll_Ronny_ll",
+                            url="https://t.me/ItzStarRonny",
                         ),
                     ],
                     [
@@ -440,18 +435,16 @@ def Source_about_callback(update: Update, context: CallbackContext):
             text=f"""
 *ʜᴇʏ,
  ᴛʜɪs ɪs {BOT_NAME},
-ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
+ʜᴇʀᴇ ʏᴏᴜ ɢᴏᴛ ᴇᴠᴇʀᴛʜɪɴɢ ᴀʙᴏᴜᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)
-[ᴩʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
-[ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://github.com/python-telegram-bot/python-telegram-bot)
-ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+● ʜᴇʀᴇ ᴀʀᴇ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ● : [Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ](https://t.me/BotsHub1)
+[● ᴍᴀʀᴋᴇᴛɪɴɢ ᴄʜᴀɴɴᴇʟ ●](https://t.me/SuttaBazar)
+[ ● ʟɪғᴇ ɢᴏᴇs ᴏᴊ ●](https://t.me/Life1GoesOn)
 
-
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/Dairy_dash)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/Life1GoesOn)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/AnonymousX1025/FallenRobot/blob/master/LICENSE).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://t.me/ItzStarRonny).
 © 2022 - 2023 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
